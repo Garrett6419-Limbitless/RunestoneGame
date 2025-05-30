@@ -1178,3 +1178,24 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.05.30-17.17.38:098][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2025.05.30-17.17.38:157][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2025.05.30-17.17.38:213][874]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.05.30-17.19.00:811][498]LogDerivedDataCache: C:/Users/garre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.060 and deleted 0 files with total size 0 MiB. Scanned 2373 files in 2354 folders with total size 53 MiB.
+[2025.05.30-17.22.37:244][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-17.22.37:370][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunestoneGame" FILE="../../../../../../Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/RunestoneGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.30-17.22.37:440][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.05.30-17.22.37:461][580]LogPackageLocalizationCache: Processed 49 localized package path(s) for 1 prioritized culture(s) in 0.009593 seconds
+[2025.05.30-17.22.37:462][580]LogSerialization: UsePackageTrailer: 'true'
+[2025.05.30-17.22.37:466][580]LogSavePackage: Moving output files for package: /Game/RunestoneGame
+[2025.05.30-17.22.37:466][580]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Saved/RunestoneGameF555D6394F897E2C97B69CBC03407BBC.tmp' to '../../../../../../Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/RunestoneGame.umap'
+[2025.05.30-17.22.37:476][580]LogFileHelpers: Saving map 'RunestoneGame' took 0.106
+[2025.05.30-17.22.37:484][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 239 ms
+[2025.05.30-17.22.37:490][580]AssetCheck: New page: Asset Save: RunestoneGame
+[2025.05.30-17.22.37:490][580]LogContentValidation: Display: Validating /Script/Engine.World /Game/RunestoneGame.RunestoneGame
+[2025.05.30-17.22.38:897][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.05.30-17.22.40:035][716]LogSlate: Window 'Save Content' being destroyed
+[2025.05.30-17.22.40:040][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-17.22.40:112][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_RunestoneGameGamemode" FILE="../../../../../../Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/BP_RunestoneGameGamemode.uasset" SILENT=true
+[2025.05.30-17.22.40:115][716]LogSavePackage: Moving output files for package: /Game/BP_RunestoneGameGamemode
+[2025.05.30-17.22.40:115][716]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Saved/BP_RunestoneGameGamemode47A5017D4733D20E86934F99137F389B.tmp' to '../../../../../../Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/BP_RunestoneGameGamemode.uasset'
+[2025.05.30-17.22.40:123][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 321 ms)
+[2025.05.30-17.22.40:130][716]AssetCheck: New page: Asset Save: BP_RunestoneGameGamemode
+[2025.05.30-17.22.40:130][716]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_RunestoneGameGamemode.BP_RunestoneGameGamemode

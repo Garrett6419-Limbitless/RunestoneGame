@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 # Bash Plugins
 !Plugins/**
+RunestoneGame/Saved/Logs/RunestoneGame.log
+RunestoneGame/Saved/SourceControl/UncontrolledChangelists.json

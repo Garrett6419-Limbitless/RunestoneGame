@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/RunestoneGame.umap",
+				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/BP_RunestoneGameGamemode.uasset",
+				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/BP_RunestoneGamePlayer.uasset",
+				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/UI/PaintBrush.uasset",
+				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/RunestoneGame_3.umap",
+				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/RunesMesh/Rune_Base_Textures/CanvasMaterial.uasset",
+				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/RunesMesh/Rune_Base_Textures/Brush.uasset",
+				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/Blueprints/RuneCanvas.uasset",
 				"C:/Users/Johan/OneDrive/Documents Holder/1. Dokument/GitHub/RunestoneGame/RunestoneGame/Content/RuneListController.uasset",
 				"C:/Users/Johan/OneDrive/Documents Holder/1. Dokument/GitHub/RunestoneGame/RunestoneGame/Content/RuneStone.uasset",
 				"C:/Users/Johan/OneDrive/Documents Holder/1. Dokument/GitHub/RunestoneGame/RunestoneGame/Content/PizzaMansTestScene.umap",
@@ -568,11 +577,7 @@
 				"D:/Unity Projects/RunestoneGame/RunestoneGame/Content/RunesMesh/Rune_Base_Textures/woodrune_standardSurface1_Normal.uasset",
 				"D:/Unity Projects/RunestoneGame/RunestoneGame/Content/RunesMesh/Rune_Base_Textures/woodrune_standardSurface1_Roughness.uasset",
 				"D:/Unity Projects/RunestoneGame/RunestoneGame/Content/BackgroundMesh/RunestoneGame.umap",
-				"D:/Unity Projects/RunestoneGame/RunestoneGame/Content/BackgroundMesh/RunestoneGame_2.umap",
-				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/RunestoneGame.umap",
-				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/BP_RunestoneGameGamemode.uasset",
-				"C:/Users/garre/OneDrive/Desktop/RunestoneGame/RunestoneGame/Content/BP_RunestoneGamePlayer.uasset"
+				"D:/Unity Projects/RunestoneGame/RunestoneGame/Content/BackgroundMesh/RunestoneGame_2.umap"
 			]
 		}
 	]
